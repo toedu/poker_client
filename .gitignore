@@ -4,3 +4,6 @@ logs
 
 frameworks/cocos2d-html5/
 frameworks/cocos2d-x/
+frameworks/runtime-src/proj.win32/Debug.win32/
+frameworks/runtime-src/proj.win32/poker_client.VC.db
+frameworks/runtime-src/proj.win32/poker_client.VC.VC.opendb
