@@ -7,3 +7,8 @@ frameworks/cocos2d-x/
 frameworks/runtime-src/proj.win32/Debug.win32/
 frameworks/runtime-src/proj.win32/poker_client.VC.db
 frameworks/runtime-src/proj.win32/poker_client.VC.VC.opendb
+frameworks/runtime-src/proj.win32/.vs/poker_client/v14/.suo
+frameworks/runtime-src/proj.android/.idea/
+frameworks/runtime-src/proj.android/app/.externalNativeBuild/
+frameworks/runtime-src/proj.android/proj.android.iml
+frameworks/runtime-src/proj.android/app/poker_client.iml
